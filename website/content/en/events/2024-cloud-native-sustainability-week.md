@@ -38,7 +38,7 @@ After the successful [Sustainability Week 2023](https://tag-env-sustainability.c
 | 8 | India | TBD | TBD | Saiyam
 | 9 | Aarhus, Denmark | October 7th | [Link](https://community.cncf.io/events/details/cncf-aarhus-presents-cncf-sustainability-week-aarhus-2024/) | [Cloud Native Aarhus Organizers](https://community.cncf.io/aarhus/)
 | 10 | Kuala Lumpur, Malaysia | Oct. 21 | TBD | Mageshwaran Sekar, Khairul Anuar, Ahmed Zidan
-| 11 | Stuttgart, Germany | TBD| TBD | Danijel Soldo, Stefan Bergstein
+| 11 | Stuttgart, Germany | Oct. 10| [link](https://community.cncf.io/events/details/cncf-cloud-native-stuttgart-presents-cncf-sustainability-week-stuttgart-2024/)  | Danijel Soldo, Jens Schwarzer, Stefan Bergstein
 <!-- cSpell:enable -->
 
 ## Event Goals
